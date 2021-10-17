@@ -9,7 +9,7 @@ Ashok Meyyappan
 Adeline Reichert  
 Austin Stephen
 
-_Insert Elevator Pitch Here_
+There’s a correlation between the market and the environment (volatility is corrected for GDP). Give us GDP and environmental factors, and we’ll give an accurate prediction of stock performance.
 
 **Repository Structure**
 - data: The datasets we used to train our models
