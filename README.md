@@ -14,4 +14,4 @@ There’s a correlation between the market and the environment (volatility is co
 **Repository Structure**
 - data: The datasets we used to train our models
 - model_tuning: Our R model tuning script
-- scripts_cleaning: Automation for how a user can use our results. Takes in a dataframe of GDP and environmental variables for any year x, runs our predictor, and outputs to the user what we predict the stock price will be at the end of year x
+- scripts_cleaning: These join the data pulled into csv files from Snowflake, clean columns, and mean center the data for the PCA analysis. 
