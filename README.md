@@ -1,7 +1,7 @@
 # Stocks-GDP-and-Environment
 2021 TAMU Datathon Goldman Sachs Challenge
 
-Let's Talk About the Enviornment
+Let's Stock About the Enviornment
 
 **Team Members:**  
 Ishan Dhanani  
